@@ -1,0 +1,45 @@
+.margin {
+	margin-right: auto;
+	margin-left: auto;
+}
+.height_1 {
+	height: 40px
+}
+.height_2 {
+	height: 710px
+}
+.heig_color {
+	height: 370px;
+	background-color: purple
+}
+.heig_color2 {
+	height: 60px;
+	
+}
+.heig_color3 {
+	height: 145px;
+	background-color: purple
+}
+.heig_color4 {
+	height: 5px;
+	background-color: purple
+}
+.heig {
+	height: 30px
+}
+.heig2 {
+	height: 145px
+}
+.hc {
+	height: 15px;
+	background-color: green
+}
+.hc2 {
+	height: 70px
+}
+.hc3 {
+	height: 35px;
+	background-color: green
+
+}
+.hc3 {}
